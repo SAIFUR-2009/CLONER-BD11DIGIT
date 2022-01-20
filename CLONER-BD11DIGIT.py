@@ -68,7 +68,7 @@ def cb():
     os.system('clear')
 
 
-logo = ' __  __    _    _   _    _    ____ ___ \n| █▀▀ ▄▀▄ ▀█▀ █▀▀ █ █ █▀█ \n| ▄██ █▀█ ▄█▄ █▀  █▄█ █▀▄ '
+logo = ' SAIFUR RAHMAN '
 
 back = 0
 successful = []
