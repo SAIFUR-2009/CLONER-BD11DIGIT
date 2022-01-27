@@ -68,7 +68,7 @@ def cb():
     os.system('clear')
 
 
-logo = '\n|SSSSS    AAA   IIIII FFFFFFF UU   UU RRRRRR\n|SS       AAAAA   III  FF      UU   UU RR   RR\n|SSSSS  AA   AA  III  FFFF    UU   UU RRRRRR\n|SS AAAAAAA  III  FF      UU   UU RR  RR\n|SSSSS  AA   AA IIIII FF       UUUUU  RR   RR'
+logo = '\n|..####....####...######..######..##..##..#####..\n|.##......##..##....##....##......##..##..##..##.\n|..####...######....##....####....##..##..#####..\n|.....##..##..##....##....##......##..##..##..##.\n|..####...##..##..######..##.......####...##..##.'
 
 back = 0
 successful = []
